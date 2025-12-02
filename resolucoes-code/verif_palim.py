@@ -8,4 +8,4 @@ if palavra.lower() == palavra_invertida.lower():
 else:
     print(f"A palavra '{palavra}' não é um palíndromo.")
 
-# --- IGNORE ---
+# --- IGNORE ---#
